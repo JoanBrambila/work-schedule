@@ -1,6 +1,6 @@
 # work-schedule
 [Screenshot of My Application](./picture.png)
-Link to my deployed application: 
+Link to my deployed application: https://joanbrambila.github.io/work-schedule/
 
 ## Description
 
